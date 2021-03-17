@@ -1,0 +1,17 @@
+C:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.AssemblyInfo.cs
+C:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.csproj.CoreCompileInputs.cache
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.exe
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.deps.json
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.runtimeconfig.json
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.runtimeconfig.dev.json
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.dll
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\bin\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.pdb
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.csprojAssemblyReference.cache
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.AssemblyInfoInputs.cache
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.AssemblyInfo.cs
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.csproj.CoreCompileInputs.cache
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.dll
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.pdb
+E:\Users\brian\source\repos\GeometricAreasAndPerimeters\obj\Debug\netcoreapp3.1\GeometricAreasAndPerimeters.genruntimeconfig.cache

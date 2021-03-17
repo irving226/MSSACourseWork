@@ -1,0 +1,13 @@
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.exe
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.deps.json
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.runtimeconfig.json
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.runtimeconfig.dev.json
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.dll
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\bin\Debug\netcoreapp3.1\QuizCH2.pdb
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.AssemblyInfoInputs.cache
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.AssemblyInfo.cs
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.csproj.CoreCompileInputs.cache
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.dll
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.pdb
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.genruntimeconfig.cache
+D:\Documents\source\ISSA 220 Classwork\QuizCH2\obj\Debug\netcoreapp3.1\QuizCH2.csprojAssemblyReference.cache

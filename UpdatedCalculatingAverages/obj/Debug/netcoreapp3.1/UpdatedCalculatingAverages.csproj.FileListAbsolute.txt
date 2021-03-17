@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.exe
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.deps.json
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.runtimeconfig.json
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.runtimeconfig.dev.json
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.dll
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\bin\Debug\netcoreapp3.1\UpdatedCalculatingAverages.pdb
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.AssemblyInfo.cs
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.dll
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.pdb
+C:\Users\brian\source\repos\UpdatedCalculatingAverages\obj\Debug\netcoreapp3.1\UpdatedCalculatingAverages.genruntimeconfig.cache

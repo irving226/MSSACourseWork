@@ -1,0 +1,13 @@
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.exe
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.deps.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.runtimeconfig.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.runtimeconfig.dev.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\bin\Debug\netcoreapp3.1\ReducingSteps.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.csprojAssemblyReference.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.AssemblyInfoInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.AssemblyInfo.cs
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.csproj.CoreCompileInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\ReducingSteps\ReducingSteps\obj\Debug\netcoreapp3.1\ReducingSteps.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.exe
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.deps.json
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.runtimeconfig.json
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.runtimeconfig.dev.json
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.dll
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\bin\Debug\netcoreapp3.1\BulletProofConsoleOutput.pdb
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.csprojAssemblyReference.cache
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.AssemblyInfoInputs.cache
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.AssemblyInfo.cs
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.csproj.CoreCompileInputs.cache
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.dll
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.pdb
+D:\Documents\source\ISSA 220 Classwork\BulletProofConsoleOutput\obj\Debug\netcoreapp3.1\BulletProofConsoleOutput.genruntimeconfig.cache

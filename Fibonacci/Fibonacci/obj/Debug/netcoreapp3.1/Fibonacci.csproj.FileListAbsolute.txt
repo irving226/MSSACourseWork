@@ -1,0 +1,13 @@
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

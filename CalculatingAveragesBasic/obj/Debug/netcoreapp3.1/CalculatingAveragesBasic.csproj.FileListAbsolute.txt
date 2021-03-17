@@ -1,0 +1,13 @@
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.exe
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.deps.json
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.runtimeconfig.json
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.runtimeconfig.dev.json
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.dll
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\bin\Debug\netcoreapp3.1\CalculatingAveragesBasic.pdb
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.csprojAssemblyReference.cache
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.AssemblyInfoInputs.cache
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.AssemblyInfo.cs
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.dll
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.pdb
+C:\Users\brian\source\ISSA 220 Classwork\CalculatingAveragesBasic\obj\Debug\netcoreapp3.1\CalculatingAveragesBasic.genruntimeconfig.cache

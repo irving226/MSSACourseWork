@@ -1,0 +1,13 @@
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.exe
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.deps.json
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.json
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.dev.json
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.dll
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.pdb
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csprojAssemblyReference.cache
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfoInputs.cache
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfo.cs
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csproj.CoreCompileInputs.cache
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.dll
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.pdb
+E:\Users\brian\source\ISSA 220 Classwork\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.genruntimeconfig.cache

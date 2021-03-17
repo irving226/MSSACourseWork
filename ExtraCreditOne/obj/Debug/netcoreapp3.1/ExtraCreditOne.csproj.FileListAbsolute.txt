@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.exe
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.deps.json
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.runtimeconfig.json
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.runtimeconfig.dev.json
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.dll
+C:\Users\brian\source\repos\ExtraCreditOne\bin\Debug\netcoreapp3.1\ExtraCreditOne.pdb
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.AssemblyInfo.cs
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.dll
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.pdb
+C:\Users\brian\source\repos\ExtraCreditOne\obj\Debug\netcoreapp3.1\ExtraCreditOne.genruntimeconfig.cache

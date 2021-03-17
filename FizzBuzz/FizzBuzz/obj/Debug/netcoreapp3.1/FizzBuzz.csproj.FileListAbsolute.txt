@@ -1,0 +1,26 @@
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\brian\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+F:\Stuff From SSD\source\ISSA 220 Classwork\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
