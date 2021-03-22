@@ -1,0 +1,13 @@
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\Documents\source\ISSA 220 Classwork\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
