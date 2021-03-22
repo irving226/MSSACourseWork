@@ -1,0 +1,13 @@
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.exe
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.deps.json
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.json
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.dev.json
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.dll
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.pdb
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.csprojAssemblyReference.cache
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfoInputs.cache
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfo.cs
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.csproj.CoreCompileInputs.cache
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.dll
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.pdb
+D:\Documents\source\ISSA 220 Classwork\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.genruntimeconfig.cache
